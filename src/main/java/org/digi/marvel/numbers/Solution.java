@@ -4,7 +4,7 @@ class Solution
 {
     String result = "";
 
-    String generateIncreasingNum(int start, String out, int n)
+    String generateIncreasingNumber(int start, String out, int n)
     {
         if (n == 0)
         {
@@ -15,16 +15,33 @@ class Solution
         for (int i = start; i <= 9; i++)
         {
             String str = out + Integer.toString(i);
-            generateIncreasingNum(i, str, n - 1);
+            generateIncreasingNumber(i, str, n - 1);
         }
         return result;
     }
+
+    /*
+    	String generateIncreasingNumber(int start, String out, int n) {
+
+		if (n==0) {
+			result =  result + out ;
+			return result;
+		}
+
+		for (int i = start; i<=9; i++) {
+       String str = Integer.toString(i) + out;
+    generateIncreasingNumber(i, str, n-1);
+    }
+		return result;
+     }
+     */
+
 
     public String run(int input) {
         String result = "";
         Solution obj = new Solution();
         if (input >= 1 && input <= 9) {
-            result = obj.generateIncreasingNum(1, " ", input);
+            result = obj.generateIncreasingNumber(1, ",", input);
             System.out.print("result ::" + result);
 
         } else {
