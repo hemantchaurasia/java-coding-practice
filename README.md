@@ -1,10 +1,10 @@
-# Practice java data structures and algorithms 
-JDK v17.x
+# Coding best practices
+JDK v8.x and above
 
-### Secure coding best practices in general with any programming language
+### Secure coding best practices in general with any programming language:
 https://github.com/hemantchaurasia/cyber-security/tree/main/secure-code-best-practices
 
-### Java coding best practices
+### Java coding best practices:
 
 ### How to practice TDD (Test Diven Development) approach:
 
