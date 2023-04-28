@@ -5,8 +5,10 @@ JAVA v8.x and above
 https://github.com/hemantchaurasia/cyber-security/tree/main/secure-code-best-practices
 
 ### Java coding best practices:
+https://github.com/hemantchaurasia/java-coding-practice/blob/main/java-coding-best-practices/README.md
 
 ### TDD (Test Diven Development) Practices:
+https://github.com/hemantchaurasia/java-coding-practice/blob/main/tdd-based-development/README.md
 
 ## Examples:
 ### Run the test-cases:
