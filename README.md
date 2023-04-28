@@ -10,8 +10,7 @@ https://github.com/hemantchaurasia/cyber-security/tree/main/secure-code-best-pra
 
 ## Examples:
 ### Run the test-cases:
-1.
-https://github.com/hemantchaurasia/java-coding-practice/blob/main/src/main/java/org/digi/marvel/formula/Solution.java
+</br>1.https://github.com/hemantchaurasia/java-coding-practice/blob/main/src/main/java/org/digi/marvel/formula/Solution.java
 https://github.com/hemantchaurasia/java-coding-practice/blob/main/src/test/java/org/digi/marvel/formula/SolutionTest.java
 </br>2.
 https://github.com/hemantchaurasia/java-coding-practice/blob/main/src/main/java/org/digi/marvel/numbers/Solution.java
