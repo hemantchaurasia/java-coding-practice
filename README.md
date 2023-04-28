@@ -6,7 +6,7 @@ https://github.com/hemantchaurasia/cyber-security/tree/main/secure-code-best-pra
 
 ### Java coding best practices:
 
-### How to practice TDD (Test Diven Development) approach:
+### Practice TDD (Test Diven Development) approach:
 
 ## Examples:
 ### Run the test-cases
