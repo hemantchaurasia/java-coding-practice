@@ -1,5 +1,5 @@
 # Coding best practices
-JDK v8.x and above
+JAVA v8.x and above
 
 ### Secure coding best practices in general with any programming language:
 https://github.com/hemantchaurasia/cyber-security/tree/main/secure-code-best-practices
